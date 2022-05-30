@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMessenger", "WebMessenger\WebMessenger.csproj", "{1E03F939-A013-4C9E-84DA-BB07DB2B8AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{202CE7C2-6A56-41E7-A861-C6A3D3C66F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory", "Memory\Memory.csproj", "{D6E7D71C-79E6-469E-9F12-E750DA608A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E03F939-A013-4C9E-84DA-BB07DB2B8AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E03F939-A013-4C9E-84DA-BB07DB2B8AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E03F939-A013-4C9E-84DA-BB07DB2B8AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E03F939-A013-4C9E-84DA-BB07DB2B8AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202CE7C2-6A56-41E7-A861-C6A3D3C66F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202CE7C2-6A56-41E7-A861-C6A3D3C66F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202CE7C2-6A56-41E7-A861-C6A3D3C66F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202CE7C2-6A56-41E7-A861-C6A3D3C66F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E7D71C-79E6-469E-9F12-E750DA608A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E7D71C-79E6-469E-9F12-E750DA608A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E7D71C-79E6-469E-9F12-E750DA608A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E7D71C-79E6-469E-9F12-E750DA608A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
